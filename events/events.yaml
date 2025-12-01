@@ -1,0 +1,32 @@
+events:
+  - title: Precision Brain and Mental Health Hack Boston
+    format: In person
+    display: true
+    abstract: "A collaborative hackathon focused on precision psychiatry and computational mental health through neuroimaging and open science practices."
+    summary: "A three-day event bringing together researchers, clinicians, and data scientists to advance precision psychiatry"
+    organizers:
+      - Fabricio Cravo
+      - Stephanie Noble
+    contact:
+      - stephanie.noble@northeastern.edu
+    location: Northeastern University
+    address:
+      street: 360 Huntington Ave
+      city: Boston
+      region: Massachusetts
+      postcode: "02115"
+      country: United States
+    position:
+      lat: 42.3398
+      lng: -71.0892
+    date: '2025-10-28'
+    date_end: '2025-10-30'
+    mattermost_channel: ""
+    twitter_handle: ""
+    facebook: ""
+    instagram: ""
+    website: "https://neuroprismlab.github.io/neurohack/"
+    github_username: neuroprismlab
+    image: boston_north.png
+    image_caption: Boston Precision Brain and Mental Health Hack 2025
+    publishDate: '2025-11-20'
